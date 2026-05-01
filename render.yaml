@@ -1,8 +1,7 @@
-services:
+sservices:
   - type: web
     name: pantryhub-backend
     env: node
     plan: free
-    buildCommand: cd backend && npm install
+    buildCommand: cd backend && npm install && npm run build
     startCommand: cd backend && npm start
-    
