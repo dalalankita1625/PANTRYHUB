@@ -1,0 +1,18 @@
+gl_code,account_name,account_type,status
+1000,Cash,Asset,Active
+1200,Accounts Receivable,Asset,Active
+1500,Prepaid Expenses,Asset,Active
+2000,Accounts Payable,Liability,Active
+2100,Accrued Expenses,Liability,Active
+3000,Common Stock,Equity,Active
+4000,Subscription Revenue,Revenue,Active
+4100,Professional Services Revenue,Revenue,Active
+5000,Cost of Goods Sold,Expense,Active
+6100,Infrastructure Expense,Expense,Active
+6200,Software Licenses,Expense,Active
+6300,Office Supplies,Expense,Active
+6400,Professional Fees,Expense,Active
+6500,Marketing Expense,Expense,Active
+6600,Travel & Entertainment,Expense,Active
+6700,Payroll Expense,Expense,Active
+6800,Bank Fees,Expense,Active
