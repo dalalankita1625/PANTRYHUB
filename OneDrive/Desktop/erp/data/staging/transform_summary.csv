@@ -1,2 +1,0 @@
-raw_txn_count,erp_ready_count,quarantine_count,orphan_vendor_txns,unmapped_gl_txns,unbalanced_batches,duplicate_vendors_merged,source_debits,source_credits,ready_debits,ready_credits,quarantine_debits,quarantine_credits
-756,724,32,10,8,3,5,4004032.68,4002254.9499999997,3982442.88,3982442.88,21589.8,19812.07

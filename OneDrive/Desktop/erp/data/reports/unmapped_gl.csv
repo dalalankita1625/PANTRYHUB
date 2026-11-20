@@ -1,9 +1,0 @@
-txn_id,journal_batch_id,legacy_category,gl_code,debit_amount,credit_amount
-TXN-0735,JE-0368,,,815.22,0.0
-TXN-0737,JE-0369,Unknown Category,,713.9,0.0
-TXN-0739,JE-0370,Misc Expense,,316.47,0.0
-TXN-0741,JE-0371,Unknown Category,,192.66,0.0
-TXN-0743,JE-0372,Unknown Category,,204.01,0.0
-TXN-0745,JE-0373,,,1291.48,0.0
-TXN-0747,JE-0374,,,286.03,0.0
-TXN-0749,JE-0375,Unknown Category,,1119.33,0.0
